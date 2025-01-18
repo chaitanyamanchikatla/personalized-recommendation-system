@@ -1,0 +1,7 @@
+Flask
+scikit-learn
+PyTorch
+pandas
+numpy
+surprise
+nltk
